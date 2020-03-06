@@ -1,0 +1,11 @@
+C:\Users\Lissandra\Desktop\primeirosPassos\bin\Debug\netcoreapp3.1\primeirosPassos.exe
+C:\Users\Lissandra\Desktop\primeirosPassos\bin\Debug\netcoreapp3.1\primeirosPassos.deps.json
+C:\Users\Lissandra\Desktop\primeirosPassos\bin\Debug\netcoreapp3.1\primeirosPassos.runtimeconfig.json
+C:\Users\Lissandra\Desktop\primeirosPassos\bin\Debug\netcoreapp3.1\primeirosPassos.runtimeconfig.dev.json
+C:\Users\Lissandra\Desktop\primeirosPassos\bin\Debug\netcoreapp3.1\primeirosPassos.dll
+C:\Users\Lissandra\Desktop\primeirosPassos\bin\Debug\netcoreapp3.1\primeirosPassos.pdb
+C:\Users\Lissandra\Desktop\primeirosPassos\obj\Debug\netcoreapp3.1\primeirosPassos.csprojAssemblyReference.cache
+C:\Users\Lissandra\Desktop\primeirosPassos\obj\Debug\netcoreapp3.1\primeirosPassos.AssemblyInfoInputs.cache
+C:\Users\Lissandra\Desktop\primeirosPassos\obj\Debug\netcoreapp3.1\primeirosPassos.AssemblyInfo.cs
+C:\Users\Lissandra\Desktop\primeirosPassos\obj\Debug\netcoreapp3.1\primeirosPassos.dll
+C:\Users\Lissandra\Desktop\primeirosPassos\obj\Debug\netcoreapp3.1\primeirosPassos.pdb
